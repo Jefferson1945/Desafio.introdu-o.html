@@ -1,4 +1,5 @@
 Desafio HTML: Exemplo de Matéria para Blog.
+
 Este projeto foi desenvolvido como parte de um desafio de introdução ao HTML oferecido pela Digital Innovation One (DIO). O desafio consistia em criar uma página básica simulando uma matéria para um blog de notícias, aplicando os conceitos básicos de HTML aprendidos até o momento.
 
 Visão Geral
